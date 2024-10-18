@@ -1,6 +1,6 @@
 # NITK (StockIQ)
 
-## Team Members
+## Team Members (NITK)
 1. Aadharsh Venkat (Ph: 9741529341)
 2. Pradyun Diwakar (Ph: 9980041415)
 3. Anirudh Nayak (Ph: 7338219470)
@@ -14,7 +14,7 @@
 ## Overview
 A fully functional, easy-to-use desktop application to help users track and analyze the stocks that they are interested in. The application provides insights on the current nature of the stock, recent relevant news about it, and factors affecting the stock price and a deep analysis into it, helping users in their investment decision processes.
 
-The application provides a user-friendly homepage which allows the user to view simple data pertaining to the stock at a glance about the stocks they are interested in and general news about other stocks and the stock market in general, which may help users in choosing new stocks to invest in.
+The application provides a user-friendly homepage which allows the user to view simple data pertaining to the stock at a glance about the stocks they are interested in and general news about other stocks and the stock market in general, which may help users in choosing new stocks to invest in. Generative AI has been used to analyze in depth factors and provide insights on a particular stock.
 
 A full video walkthrough is included in the link provided in VIDEO_WALKTHROUGH.txt.
 
@@ -34,3 +34,10 @@ pip install google-generativeai
 The files on the repo must be extracted and saved in a folder.
 For running the program, main.py must be run.
 A window will appear after a few seconds, allowing the user to access the features of the software.
+
+## References
+
+1. The generative AI model used was Gemini through the python API. (https://ai.google.dev/gemini-api/docs/text-generation?lang=python)
+2. WxPython was used to create the GUI framework. (https://docs.wxpython.org)
+3. Matplotlib was used for plotting graphs (https://matplotlib.org/stable/index.html)
+4. Yfinance was used to gather stock related data (https://pypi.org/project/yfinance)
