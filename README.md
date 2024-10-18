@@ -21,7 +21,7 @@ A full video walkthrough is included in the link provided in VIDEO_WALKTHROUGH.t
 ## Running the code (Necessary Dependencies and languages required)
 (Steps necessary for execution)
 
-The entire solution is written in 100% python3. Hence, python3 will be required to run this code. The dependencies required must be installed using the pip module one by one in the command line:
+All the files in the repo need to be downloaded and extracted into one folder. The entire solution is written in 100% python3. Hence, python3 will be required to run this code. The dependencies required must be installed using the pip module one by one in the command line:
 ```
 pip install yfinance
 pip install requests
