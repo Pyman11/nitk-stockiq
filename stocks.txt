@@ -1,0 +1,1 @@
+{'orcl': ['Oracle Corporation', 175.45], 'usa': ['Liberty All-Star Equity Fund', 7.245], 'nvda': ['NVIDIA Corporation', 138.065], 'rcl': ['Royal Caribbean Cruises Ltd.', 200.21], 'wfrd': ['Weatherford International plc', 86.94]}
