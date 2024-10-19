@@ -356,7 +356,7 @@ class Window ( wx.Frame ):
     def __init__ ( self ):
         wx.Frame.__init__ ( self, parent = None, title = "StockIQ" )
         self.SetIcon ( wx.Icon ( "./logo.ico" ) )
-        self.SetSize ( ( 2000, 900 ) )
+        self.Maximize ( True )
 
         global p
         global ref
