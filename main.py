@@ -28,7 +28,7 @@ def get_result ( vals ):
     Environmental Score: {}
     Social Score: {}
     Governance Score: {}
-    Tell whether each metric is bad/moderate/good (only one word). Do not type anything else.""".format ( str ( float ( vals[0] ) ), str ( float ( vals[1] ) ), str ( float ( vals[2] ) ), str ( float ( vals[3] ) ), str ( float ( vals[4] ) ), str ( float ( vals[5] ) ), str ( float ( vals[6] ) ), str ( float ( vals[7] ) ) ) )
+    Tell whether each metric is bad/moderate/good (only one word). Do not type anything else.""".format ( str ( vals[0] ) , str ( vals[1] ), str ( vals[2] ), str ( vals[3] ), str ( vals[4] ), str ( vals[5] ), str ( vals[6] ), str ( vals[7] ) ) )
     t = response.text.split('\n')
     for i in t:
         if i.lower() == 'good':
