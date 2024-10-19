@@ -22,7 +22,8 @@ Some additional feature explanations and financial terms used are explained in A
 ## Running the code (Necessary Dependencies and languages required)
 (Steps necessary for execution)
 
-All the files in the repo need to be downloaded and extracted into one folder. The entire solution is written in 100% python3. Hence, python3 will be required to run this code. The dependencies required must be installed using the pip module one by one in the command line:
+Locate the TORUN.zip file.
+All the files in the ZIP need to be downloaded and extracted into one folder. The entire solution is written in 100% python3. Hence, python3 will be required to run this code. The dependencies required must be installed using the pip module one by one in the command line:
 ```
 pip install yfinance
 pip install requests
