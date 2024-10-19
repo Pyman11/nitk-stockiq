@@ -43,3 +43,5 @@ A window will appear after a few seconds, allowing the user to access the featur
 2. WxPython was used to create the GUI framework. (https://docs.wxpython.org)
 3. Matplotlib was used for plotting graphs (https://matplotlib.org/stable/index.html)
 4. Yfinance was used to gather stock related data (https://pypi.org/project/yfinance)
+
+NOTE: IF THE PROGRAM IS CUTTING OUT FROM THE SCREEN, IT IS RECOMMENDED TO KEEP THE SCREEN ZOOM at 100% INSTEAD OF 125% OR 150% TO ENABLE SMOOTH PERFORMANCE.
