@@ -17,6 +17,7 @@ A fully functional, easy-to-use desktop application to help users track and anal
 The application provides a user-friendly homepage which allows the user to view simple data pertaining to the stock at a glance about the stocks they are interested in and general news about other stocks and the stock market in general, which may help users in choosing new stocks to invest in. Generative AI has been used to analyze in depth factors and provide insights on a particular stock.
 
 A full video walkthrough is included in the link provided in VIDEO_WALKTHROUGH.txt.
+Some additional feature explanations and financial terms used are explained in ANALYTICS.txt.
 
 ## Running the code (Necessary Dependencies and languages required)
 (Steps necessary for execution)
